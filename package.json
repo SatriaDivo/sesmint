@@ -1,0 +1,13 @@
+{
+  "name": "sesmint",
+  "version": "1.0.0",
+  "description": "OpenCode session minting proxy — fresh ses_ ID per request to bypass free-tier quota limits",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
